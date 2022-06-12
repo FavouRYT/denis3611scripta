@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a18d778-7483-4f69-a18a-493c1e27a853": {
+      "ProjectGuid": "8a18d778-7483-4f69-a18a-493c1e27a853",
+      "DisplayName": "Altv-Roleplay",
+      "ColorIndex": 0
+    },
+    "c55cd7b1-b160-45b2-82e3-22630536599f": {
+      "ProjectGuid": "c55cd7b1-b160-45b2-82e3-22630536599f",
+      "DisplayName": "SaltyChat.Server",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

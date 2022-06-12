@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v3AV5AD5HOSvmGqbXsifjwrXQ1oVnmgbq6PaNCdiP5S3WqpCvZOpWHVd3UPU3qb+wV772StOa6VB7+W9Hz2cFw==",
+  "success": true,
+  "projectFilePath": "C:\\AltVserver\\AltvNeu\\script-a-rework-main\\Mappe - Visual Studio\\Altv-Roleplay\\SaltyServer\\SaltyChat.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\altv.net\\9.0.2\\altv.net.9.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\altv.net.async\\9.0.2\\altv.net.async.9.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
